@@ -1,3 +1,6 @@
+-- Github: @YouKnowCrow 
+-- Discord: 1i5c (1187402552283775076)
+
 local Debris = game:GetService("Debris")
 local TweenService = game:GetService("TweenService")
 local PhysicsService = game:GetService("PhysicsService")
